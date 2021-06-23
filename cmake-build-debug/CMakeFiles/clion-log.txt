@@ -1,0 +1,48 @@
+D:\yy\t1\JetBrains-Toolbox\apps\CLion\ch-0\211.7442.42\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" D:\project\c\ygopro
+-- Detected 32-bit platform
+CMake Error at CMakeLists.txt:27 (add_subdirectory):
+  The source directory
+
+    D:/project/c/ygopro/event
+
+  does not contain a CMakeLists.txt file.
+
+
+CMake Error at CMakeLists.txt:28 (add_subdirectory):
+  The source directory
+
+    D:/project/c/ygopro/freetype
+
+  does not contain a CMakeLists.txt file.
+
+
+CMake Error at CMakeLists.txt:29 (add_subdirectory):
+  The source directory
+
+    D:/project/c/ygopro/irrlicht
+
+  does not contain a CMakeLists.txt file.
+
+
+CMake Error at CMakeLists.txt:30 (add_subdirectory):
+  The source directory
+
+    D:/project/c/ygopro/sqlite3
+
+  does not contain a CMakeLists.txt file.
+
+
+CMake Error at CMakeLists.txt:31 (add_subdirectory):
+  add_subdirectory given source "lua" which is not an existing directory.
+
+
+CMake Error at CMakeLists.txt:46 (add_subdirectory):
+  The source directory
+
+    D:/project/c/ygopro/ocgcore
+
+  does not contain a CMakeLists.txt file.
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/project/c/ygopro/cmake-build-debug/CMakeFiles/CMakeOutput.log".

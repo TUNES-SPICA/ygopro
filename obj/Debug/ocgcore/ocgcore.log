@@ -1,0 +1,156 @@
+﻿  interpreter.cpp
+D:\project\c\ygopro\ocgcore\interpreter.cpp(538,17): error C3861: “lua_isinteger”: 找不到标识符
+D:\project\c\ygopro\ocgcore\interpreter.cpp(559,11): error C3861: “lua_isinteger”: 找不到标识符
+D:\project\c\ygopro\ocgcore\interpreter.cpp(595,12): error C3861: “lua_isinteger”: 找不到标识符
+  libcard.cpp
+D:\project\c\ygopro\ocgcore\libcard.cpp(1564,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libcard.cpp(1564,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libcard.cpp(1564,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libcard.cpp(1564,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libcard.cpp(1565,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libcard.cpp(1568,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libcard.cpp(2905,28): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libcard.cpp(2905,41): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libcard.cpp(2905,41): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libcard.cpp(2905,79): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libcard.cpp(2906,25): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libcard.cpp(2909,4): error C2059: 语法错误:“)”
+  libduel.cpp
+D:\project\c\ygopro\ocgcore\libduel.cpp(44,26): warning C4244: “参数”: 从“uint64”转换到“lua_Integer”，可能丢失数据
+D:\project\c\ygopro\ocgcore\libduel.cpp(99,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(99,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(99,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(99,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(100,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(103,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(390,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(390,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(390,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(390,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(391,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(394,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(416,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(416,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(416,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(416,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(417,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(420,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(441,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(441,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(441,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(441,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(442,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(445,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(690,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(690,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(690,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(690,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(691,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(694,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(742,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(742,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(742,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(742,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(743,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(746,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(764,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(764,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(764,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(764,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(765,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(768,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(774,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(774,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(774,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(774,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(775,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(778,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(802,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(802,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(802,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(802,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(803,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(806,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(831,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(831,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(831,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(831,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(832,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(835,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(859,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(859,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(859,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(859,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(860,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(863,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(904,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(904,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(904,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(904,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(905,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(908,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(963,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(963,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(963,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(963,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(964,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(967,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(988,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(988,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(988,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(988,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(989,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(992,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(1022,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(1022,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(1022,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(1022,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(1023,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(1026,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(1046,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(1046,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(1046,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(1046,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(1047,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(1050,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libduel.cpp(1446,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(1446,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(1446,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libduel.cpp(1446,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libduel.cpp(1447,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libduel.cpp(1447,1): fatal error C1003: 错误计数超过 100；正在停止编译
+  libeffect.cpp
+D:\project\c\ygopro\ocgcore\libeffect.cpp(303,11): error C3861: “lua_isinteger”: 找不到标识符
+  libgroup.cpp
+D:\project\c\ygopro\ocgcore\libgroup.cpp(243,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(243,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(243,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(243,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libgroup.cpp(244,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(252,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libgroup.cpp(279,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(279,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(279,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(279,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libgroup.cpp(280,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(288,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libgroup.cpp(338,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(338,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(338,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(338,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libgroup.cpp(339,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(351,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libgroup.cpp(484,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(484,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(484,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(484,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libgroup.cpp(485,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(495,3): error C2059: 语法错误:“)”
+D:\project\c\ygopro\ocgcore\libgroup.cpp(547,27): error C2065: “lua_KContext”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(547,40): error C2146: 语法错误: 缺少“)”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(547,40): error C2146: 语法错误: 缺少“;”(在标识符“pduel”的前面)
+D:\project\c\ygopro\ocgcore\libgroup.cpp(547,78): error C2061: 语法错误: 标识符“lua_KContext”
+D:\project\c\ygopro\ocgcore\libgroup.cpp(548,24): error C2065: “ctx”: 未声明的标识符
+D:\project\c\ygopro\ocgcore\libgroup.cpp(558,3): error C2059: 语法错误:“)”
+  scriptlib.cpp
+  正在生成代码...

@@ -1,0 +1,90 @@
+﻿  CGUIImageButton.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  CGUITTFont.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  client_card.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  client_field.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  data_manager.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  deck_con.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  deck_manager.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  drawing.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  duelclient.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  event_handler.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  game.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  gframe.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  image_manager.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  materials.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  menu_handler.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  netserver.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  replay.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  replay_mode.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  single_duel.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  single_mode.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  sound_manager.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  tag_duel.cpp
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\project\c\ygopro\freetype\include\ft2build.h(56,10): fatal error C1083: 无法打开包括文件: “freetype/config/ftheader.h”: No such file or directory
+  正在生成代码...
